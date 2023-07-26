@@ -1,7 +1,7 @@
 # Tasks references
 
 ## Python Advanced
-
+* [SOLID Practice](https://github.com/mate-academy/py-solid-book-service-refactoring)
 * [Numpy](https://github.com/mate-academy/py-numpy)
 * [Pandas](https://github.com/mate-academy/py-pandas)
 * [Matplotlib](https://github.com/mate-academy/py-matplotlib)
